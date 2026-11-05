@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Camila Siqueira | Nutricionista Clínica e Esportiva",
+  "description": "Nutrição de precisão baseada em evidências, emagrecimento sustentável e performance com acompanhamento contínuo e planos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
